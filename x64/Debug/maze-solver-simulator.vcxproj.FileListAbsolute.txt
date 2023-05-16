@@ -1,2 +1,1 @@
-C:\Users\Alan\source\repos\maze-solver-simulator\x64\Debug\maze-solver-simulator.exe
 C:\Users\Alan\source\repos\maze-pathfinder\x64\Debug\maze-solver-simulator.exe

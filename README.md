@@ -35,7 +35,8 @@ For testing and creating custom maze text files:
 
 ```
 
-![App Screenshot](https://imgur.com/a/exQ3mN5)
+![Imgur](https://i.imgur.com/PvvN9MI.png)
+
 
 ```
 3 3
@@ -45,7 +46,7 @@ For testing and creating custom maze text files:
 
 ```
 
-![App Screenshot](https://imgur.com/V3WQo8Z)
+![Imgur](https://i.imgur.com/V3WQo8Z.png)
 
 ## To Do
 
