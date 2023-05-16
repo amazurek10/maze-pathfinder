@@ -1,0 +1,10 @@
+﻿  main.cpp
+  Maze.cpp
+C:\Users\Alan\source\repos\maze-pathfinder\Maze.cpp(114,22): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\Alan\source\repos\maze-pathfinder\Maze.cpp(123,20): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\Alan\source\repos\maze-pathfinder\Maze.cpp(163,41): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\Alan\source\repos\maze-pathfinder\Maze.cpp(310,52): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+  MazeCell.cpp
+  Point.cpp
+  Generating Code...
+  maze-solver-simulator.vcxproj -> C:\Users\Alan\source\repos\maze-pathfinder\x64\Debug\maze-solver-simulator.exe

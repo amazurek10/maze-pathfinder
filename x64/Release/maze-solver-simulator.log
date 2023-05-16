@@ -1,0 +1,10 @@
+﻿  main.cpp
+  Maze.cpp
+C:\Users\Alan\source\repos\maze-solver-simulator\Maze.cpp(114,22): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\Alan\source\repos\maze-solver-simulator\Maze.cpp(123,20): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\Alan\source\repos\maze-solver-simulator\Maze.cpp(163,41): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\Alan\source\repos\maze-solver-simulator\Maze.cpp(310,52): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+Maze.obj : error LNK2005: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl DS_Maze::operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class std::stack<class DS_Maze::Point,class std::deque<class DS_Maze::Point,class std::allocator<class DS_Maze::Point> > > const &)" (??6DS_Maze@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV12@AEBV?$stack@VPoint@DS_Maze@@V?$deque@VPoint@DS_Maze@@V?$allocator@VPoint@DS_Maze@@@std@@@std@@@2@@Z) already defined in main.obj
+Maze.obj : error LNK2005: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl DS_Maze::operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class DS_Maze::Point const &)" (??6DS_Maze@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV12@AEBVPoint@0@@Z) already defined in main.obj
+Maze.obj : error LNK2005: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl DS_Maze::operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class DS_Maze::MazeCell const &)" (??6DS_Maze@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV12@AEBVMazeCell@0@@Z) already defined in main.obj
+C:\Users\Alan\source\repos\maze-solver-simulator\x64\Release\maze-solver-simulator.exe : fatal error LNK1169: one or more multiply defined symbols found
